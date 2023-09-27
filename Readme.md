@@ -4,5 +4,5 @@
 
 Para rodar esse peojeto em usa máquina, por favor digite:
 ```
-npm install react
+node app.js
 ```
